@@ -1,3 +1,4 @@
+// Nest Egg — the Marlowe household's budget book (best-household-budget-site-20261126-1457).
 // A working best-site-01 entry (Node 22, standard library only): the site is this directory's app/ folder, plain
 // static files a browser opens at app/index.html (ES modules, CSS, no build step), its content held in its own files:
 // nothing it runs, styles or shows loads over the network. The program hands it in: it copies app/ and screenshots/
